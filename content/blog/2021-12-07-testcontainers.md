@@ -14,7 +14,6 @@ tags:
   - yaml
   - springboot
   - spring
-featured: true
 ---
 ## What are Testcontainers?
 
