@@ -19,10 +19,11 @@ const menuItems: MenuItem[] = [
 ];
 
 const footer = {
-  copyrightOwner: "GEEK SG",
-  linkedin: "https://www.linkedin.com/in/raymondyeh/",
-  github: "https://github.com/yehjxraymond",
-  instagram: "https://www.instagram.com/geek.sg/",
+  copyrightOwner: "Sameer Kulkarni",
+  linkedin: "https://www.linkedin.com/in/sameerkulkarni30/",
+  github: "https://github.com/cricketsamya",
+  instagram: "https://instagram.com/sameer_travelphotography/",
+  twitter: "https://twitter.com/cricketsamya",
 };
 
 export const Layout: FunctionComponent = ({ children }) => {
