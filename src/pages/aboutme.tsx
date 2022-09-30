@@ -8,7 +8,6 @@ function MyApp() {
   function onDocumentLoadSuccess({ numPages }) {
     setNumPages(numPages);
   }
-
   return (
     <div>
       <Document file="../../static/cv/Profile_SameerKulkarni.pdf" onLoadSuccess={onDocumentLoadSuccess}>
