@@ -3,7 +3,6 @@ template: blog-post
 title: Log4j to Logback migration? Good idea or not?
 publishedDate: 2021-01-25T12:00:28.345Z
 description: A security exploit that happened and made us think about this migration
-featured: true
 img: ../../static/images/emotions-g8a980472b_1920.jpg
 caption: "Photo credit: [**Pixabay**](https://pixabay.com/)"
 imgAlt: Emotions

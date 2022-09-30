@@ -87,7 +87,7 @@ dependencies {
   
 * Add dependabot support with `.github/dependabot.yml` file to the project.
 
-```yml
+```yaml
 version: 2
 updates:
   - package-ecosystem: "gradle" 

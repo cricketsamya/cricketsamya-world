@@ -1,7 +1,7 @@
-const siteName = "Sample Blog";
-const siteShortName = "Sample Blog";
-const siteUrl = "https://geek.sg/";
-const siteDescription = "Sample blog template";
+const siteName = "My Personal Space 🛰️";
+const siteShortName = "My Personal Space 🛰️";
+const siteUrl = "https://sameerkulkarni.de/";
+const siteDescription = "This is my personal space 🛰️, where I would love share my experience and my knowledge. Currently, I am working as a Senior Software Engineer. I have 10+ years of Java Stack experience.";
 const siteKeyword = "";
 const siteLogo = "logo.png";
 const siteLogoFolder = `static/${siteLogo}`;

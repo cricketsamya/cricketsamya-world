@@ -3,7 +3,6 @@ template: blog-post
 title: GitHub Pull Request Template a faster way to document a PR
 publishedDate: 2021-10-29T12:00:28.345Z
 description: Sample template for gitHub Pull Request
-featured: true
 img: ../../static/images/pocket-watch-gb37e4eb06_1920.jpg
 caption: "Photo credit: [**Pixabay**](https://pixabay.com/)"
 imgAlt: GitHub PullRequest Template
