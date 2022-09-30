@@ -14,7 +14,7 @@ const menuItems: MenuItem[] = [
   },
   {
     label: "About Me",
-    href: "/aboutme",
+    href: "/../../../static/cv/Profile_SameerKulkarni.pdf",
   },  
   {
     label: "Contact",
