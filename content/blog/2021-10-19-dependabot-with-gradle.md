@@ -1,20 +1,4 @@
 ---
-title: "How to configure Dependabot with Gradle"
-categories:
-  - Posts
-tags:
-  - dependabot
-  - gradle
-  - github
-  - dependency
-classes: wide
-taxonomy: Dependabot Gradle
-author_profile: true
-header:
-  overlay_image: /assets/images/labyrinth-gd0618d8f1_1920.jpg
-  caption: "Photo credit: [**Pixabay**](https://pixabay.com/)"
-excerpt: ""
-
 template: blog-post
 title: How to configure Dependabot with Gradle
 publishedDate: 2021-10-19T12:00:28.345Z
