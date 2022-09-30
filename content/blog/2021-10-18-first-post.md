@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Post: First Post
+title: First Post
 publishedDate: 2021-10-18T12:00:28.345Z
 description: My first page!
 featured: true
