@@ -152,7 +152,7 @@ export const Header: FunctionComponent<Header> = ({ menuItems, logo }) => {
           <div className="lg:w-0 lg:flex-1">
             <a href="/" className="flex">
               {logo}
-            </a>
+            </a> My Personal Space 🛰️
           </div>
           <div className="-mr-2 -my-2 md:hidden">
             <button
